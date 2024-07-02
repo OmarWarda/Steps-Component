@@ -9,19 +9,10 @@ export default function App () {
 
   function handlePrevious () {
     alert ('Previous');
-
-    // if (step > 1) {
-    //   step = step - 1;
-    //   console.log (step);
-    // }
   }
 
   function handleNext () {
     alert ('Next');
-
-    // if (step < 3) {
-    //   step = step + 1;
-    // }
   }
 
   return (
